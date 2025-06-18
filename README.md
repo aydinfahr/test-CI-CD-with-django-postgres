@@ -1,1 +1,0 @@
-# test-CI-CD-with-django-postgres
